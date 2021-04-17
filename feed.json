@@ -2,18 +2,18 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "breakingsymmetry",
     "description": "",
-    "home_page_url": "https://breakingsymmetry.github.io/breakingsymmetry.github.io",
-    "feed_url": "https://breakingsymmetry.github.io/breakingsymmetry.github.io/feed.json",
+    "home_page_url": "https://breakingsymmetry.github.io",
+    "feed_url": "https://breakingsymmetry.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "breakingsymmetry"
     },
     "items": [
         {
-            "id": "https://breakingsymmetry.github.io/breakingsymmetry.github.io/the-clouds.html",
-            "url": "https://breakingsymmetry.github.io/breakingsymmetry.github.io/the-clouds.html",
+            "id": "https://breakingsymmetry.github.io/the-clouds.html",
+            "url": "https://breakingsymmetry.github.io/the-clouds.html",
             "title": "The Clouds",
-            "image": "https://breakingsymmetry.github.io/breakingsymmetry.github.io/media/posts/4/TheClouds.jpg",
+            "image": "https://breakingsymmetry.github.io/media/posts/4/TheClouds.jpg",
             "author": {
                 "name": "breakingsymmetry"
             },
@@ -24,10 +24,10 @@
             "date_modified": "2021-03-16T17:04:59+01:00"
         },
         {
-            "id": "https://breakingsymmetry.github.io/breakingsymmetry.github.io/half-moon.html",
-            "url": "https://breakingsymmetry.github.io/breakingsymmetry.github.io/half-moon.html",
+            "id": "https://breakingsymmetry.github.io/half-moon.html",
+            "url": "https://breakingsymmetry.github.io/half-moon.html",
             "title": "Half Moon",
-            "image": "https://breakingsymmetry.github.io/breakingsymmetry.github.io/media/posts/3/HalfMoon.jpg",
+            "image": "https://breakingsymmetry.github.io/media/posts/3/HalfMoon.jpg",
             "author": {
                 "name": "breakingsymmetry"
             },
@@ -38,10 +38,10 @@
             "date_modified": "2021-03-16T17:04:51+01:00"
         },
         {
-            "id": "https://breakingsymmetry.github.io/breakingsymmetry.github.io/red-moon.html",
-            "url": "https://breakingsymmetry.github.io/breakingsymmetry.github.io/red-moon.html",
+            "id": "https://breakingsymmetry.github.io/red-moon.html",
+            "url": "https://breakingsymmetry.github.io/red-moon.html",
             "title": "Red Moon",
-            "image": "https://breakingsymmetry.github.io/breakingsymmetry.github.io/media/posts/2/RedMoon.jpg",
+            "image": "https://breakingsymmetry.github.io/media/posts/2/RedMoon.jpg",
             "author": {
                 "name": "breakingsymmetry"
             },

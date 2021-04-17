@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>breakingsymmetry</title>
-    <link href="https://breakingsymmetry.github.io/breakingsymmetry.github.io/feed.xml" rel="self" />
-    <link href="https://breakingsymmetry.github.io/breakingsymmetry.github.io" />
+    <link href="https://breakingsymmetry.github.io/feed.xml" rel="self" />
+    <link href="https://breakingsymmetry.github.io" />
     <updated>2021-03-16T17:04:59+01:00</updated>
     <author>
         <name>breakingsymmetry</name>
     </author>
-    <id>https://breakingsymmetry.github.io/breakingsymmetry.github.io</id>
+    <id>https://breakingsymmetry.github.io</id>
 
     <entry>
         <title>The Clouds</title>
         <author>
             <name>breakingsymmetry</name>
         </author>
-        <link href="https://breakingsymmetry.github.io/breakingsymmetry.github.io/the-clouds.html"/>
-        <id>https://breakingsymmetry.github.io/breakingsymmetry.github.io/the-clouds.html</id>
+        <link href="https://breakingsymmetry.github.io/the-clouds.html"/>
+        <id>https://breakingsymmetry.github.io/the-clouds.html</id>
             <category term="Photography"/>
 
         <updated>2021-03-16T17:04:59+01:00</updated>
@@ -27,8 +27,8 @@
         <author>
             <name>breakingsymmetry</name>
         </author>
-        <link href="https://breakingsymmetry.github.io/breakingsymmetry.github.io/half-moon.html"/>
-        <id>https://breakingsymmetry.github.io/breakingsymmetry.github.io/half-moon.html</id>
+        <link href="https://breakingsymmetry.github.io/half-moon.html"/>
+        <id>https://breakingsymmetry.github.io/half-moon.html</id>
             <category term="Photography"/>
 
         <updated>2021-03-16T17:04:51+01:00</updated>
@@ -40,8 +40,8 @@
         <author>
             <name>breakingsymmetry</name>
         </author>
-        <link href="https://breakingsymmetry.github.io/breakingsymmetry.github.io/red-moon.html"/>
-        <id>https://breakingsymmetry.github.io/breakingsymmetry.github.io/red-moon.html</id>
+        <link href="https://breakingsymmetry.github.io/red-moon.html"/>
+        <id>https://breakingsymmetry.github.io/red-moon.html</id>
             <category term="Photography"/>
 
         <updated>2021-03-16T17:04:30+01:00</updated>
