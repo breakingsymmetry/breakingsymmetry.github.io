@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://breakingsymmetry.github.io/breakingsymmetry.github.io/sitemap.xml
+Sitemap: file:///C:\Users\pc\Documents\Publii\sites\breakingsymmetry\preview/sitemap.xml
