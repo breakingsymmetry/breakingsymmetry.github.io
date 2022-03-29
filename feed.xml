@@ -3,12 +3,30 @@
     <title>breakingsymmetry</title>
     <link href="https://breakingsymmetry.github.io/feed.xml" rel="self" />
     <link href="https://breakingsymmetry.github.io" />
-    <updated>2021-03-16T17:04:59+01:00</updated>
+    <updated>2022-03-29T23:46:07+02:00</updated>
     <author>
         <name>breakingsymmetry</name>
     </author>
     <id>https://breakingsymmetry.github.io</id>
 
+    <entry>
+        <title>Vitamins</title>
+        <author>
+            <name>breakingsymmetry</name>
+        </author>
+        <link href="https://breakingsymmetry.github.io/vitamins.html"/>
+        <id>https://breakingsymmetry.github.io/vitamins.html</id>
+            <category term="Chemistry of Life"/>
+
+        <updated>2022-03-29T23:46:07+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://breakingsymmetry.github.io/media/posts/5/Vitamin-A-2.gif" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://breakingsymmetry.github.io/media/posts/5/Vitamin-A.gif" alt="Vitamin A" width="1920" height="1057"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Clouds</title>
         <author>
